@@ -1,0 +1,6 @@
+<RCC>
+  <qresource prefix="icon">
+    <file>schale.png</file>
+    <file>schale_dark.png</file>
+  </qresource>
+</RCC>

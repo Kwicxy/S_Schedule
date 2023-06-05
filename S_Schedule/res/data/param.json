@@ -1,0 +1,14 @@
+{
+ "TASK_PROTECT": true,
+ "REFRESH_RATE": 60,
+ "SHJ": false,
+ "SATURDAY_REFERENCE": 1,
+ "WEDNESDAY_REFERENCE": 0,
+ "HOMO": true,
+ "CHOSEN_COUNTDOWN": 2,
+ "STARTUP": true,
+ "SEPARATOR": 6,
+ "TOMORROW": true,
+ "CONSOLE": 0,
+ "IGNORE_PID": false
+}
